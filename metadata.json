@@ -1,0 +1,7 @@
+{
+  "name": "NomadRail - The Backpacker's Expedition Planner",
+  "description": "A geospatial trip planner focused on long-distance Indian train journeys and granular city-level exploration with automated routing, budgeting, and safety auditing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
